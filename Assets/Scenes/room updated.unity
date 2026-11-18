@@ -5287,7 +5287,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4172469706349380, guid: 937d3a138c549c24e9d5e5352d774e77, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.076
+      value: -0.077
       objectReference: {fileID: 0}
     - target: {fileID: 4172469706349380, guid: 937d3a138c549c24e9d5e5352d774e77, type: 3}
       propertyPath: m_LocalRotation.w
@@ -9189,7 +9189,7 @@ MonoBehaviour:
   garmentID: 
   garmentName: 
   color: 
-  material: 
+  material: Cotton
   currentStatus: Closet
 --- !u!54 &1839885441
 Rigidbody:
